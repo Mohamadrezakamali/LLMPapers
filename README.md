@@ -56,6 +56,9 @@ Our repository not only emphasizes the advancements in LLMs but also delves into
 1. **Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought** 
     [[Paper](https://arxiv.org/abs/2210.01240)]
 
+1. **Text Classification via Large Language Models** `EMNLP 2023 Findings`
+    *Xiaofei Sun, Xiaoya Li, Jiwei Li, Fei Wu, Shangwei Guo, Tianwei Zhang, Guoyin Wang* [[Paper]https://aclanthology.org/2023.findings-emnlp.603.pdf], 2023.5
+
 1. **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting.** `NeurIPS 2023`
 
     *Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman.* [[Paper](https://arxiv.org/abs/2305.04388)] [[Code](https://github.com/milesaturpin/cot-unfaithfulness)], 2023.5
