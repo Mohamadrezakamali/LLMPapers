@@ -41,12 +41,28 @@ Our repository not only emphasizes the advancements in LLMs but also delves into
 
 
 ### Explainability & Reasoning in AI 
-1. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
-2. [Large Language Models are Zero-Shot Reasoners](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Supplemental-Conference.pdf)
-3. [Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)
-4. [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/abs/2210.01240)
-5. [Reasoning in Large Language Models Through Symbolic Math Word Problems](https://arxiv.org/abs/2308.01906)
-6. [Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting](https://arxiv.org/abs/2305.04388)
+1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** `NeurIPS 2022`
+
+    *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou.* [[Paper](https://arxiv.org/abs/2201.11903)] [[Blog](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)], 2022.1
+
+1. **Large Language Models are Zero-Shot Reasoners.** `NeurIPS 2022`
+   
+    *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa.* [[Paper](https://arxiv.org/abs/2205.11916)], 2022.5
+
+1. **Towards Reasoning in Large Language Models: A Survey.** `ACL 2023 Findings`
+
+    *Jie Huang, Kevin Chen-Chuan Chang.* [[Paper](https://arxiv.org/abs/2212.10403)] [[Code](https://github.com/jeffhj/LM-reasoning)], 2022.12
+
+1. **Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought** 
+    [[Paper](https://arxiv.org/abs/2210.01240)]
+
+1. **Reasoning in Large Language Models Through Symbolic Math Word Problems**
+    [[Paper](https://arxiv.org/abs/2308.01906)]
+
+1. **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting.** `NeurIPS 2023`
+
+    *Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman.* [[Paper](https://arxiv.org/abs/2305.04388)] [[Code](https://github.com/milesaturpin/cot-unfaithfulness)], 2023.5
+
 
 ### Security & Privacy in AI
 
